@@ -1,2 +1,1 @@
-# bd2
-emote api bd 2
+# Emote-bot-ob54-
